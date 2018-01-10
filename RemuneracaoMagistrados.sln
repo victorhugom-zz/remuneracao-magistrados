@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "remuneracao-magistrados", "remuneracao-magistrados\remuneracao-magistrados.fsproj", "{177B3D67-ED8C-4FC9-958E-37F40293C7E7}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RemuneracaoMagistrados", "RemuneracaoMagistrados\RemuneracaoMagistrados.fsproj", "{E47C0FAD-0A47-41FE-BE64-E23851E49FF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{177B3D67-ED8C-4FC9-958E-37F40293C7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{177B3D67-ED8C-4FC9-958E-37F40293C7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{177B3D67-ED8C-4FC9-958E-37F40293C7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{177B3D67-ED8C-4FC9-958E-37F40293C7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47C0FAD-0A47-41FE-BE64-E23851E49FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47C0FAD-0A47-41FE-BE64-E23851E49FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47C0FAD-0A47-41FE-BE64-E23851E49FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47C0FAD-0A47-41FE-BE64-E23851E49FF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

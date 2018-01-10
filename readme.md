@@ -1,9 +1,15 @@
-WIP: 
+Este projeto tem como objetivo agregar os dados de salários dos magistrados do Brasil.
 
-Este projeto faz download das planilhas de remuneração dos magistrados do site do [CNJ](http://www.cnj.jus.br/transparencia/remuneracao-dos-magistrados), extrai os dados da aba salários (ignorando os dados não relevantes) e os salva como JSON em um arquivo único.
+Para isso ele faz:
 
-TODO:
+1 - Download das planilhas de remuneração dos magistrados do site do [CNJ](http://www.cnj.jus.br/transparencia/remuneracao-dos-magistrados).
 
-[ ] Fix encoding
+2 - Extrai os dados da aba salários ignorando os dados não relevante.s
 
-[ ] Salvar como csv
+3 - Salva os dados como .csv em um arquivo único.
+
+_______
+
+Para executar esse projeto é necessário ter alguma versão do [Visual Studio](https://www.visualstudio.com/downloads) instalada com Fsharp.
+
+Após a execução do script o arquivo resultado pode ser encontrado em /.data/data.csv
